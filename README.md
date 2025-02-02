@@ -1,48 +1,60 @@
-**Games Shop - Your Gaming Store**
+# 🎮 Games Shop
 
-Welcome to the repository of **Games Shop**, your favorite gaming store! Here you'll find the source code of the official Games Shop website, a virtual store specializing in games and consoles.
+Bem-vindo ao **Games Shop**, um site de e-commerce fictício para venda de jogos e consoles. Este projeto é uma demonstração de estruturação de uma página web simples, utilizando HTML e CSS.
+
+## 📌 Sobre o Projeto
+
+O **Games Shop** é um site estático que apresenta uma loja de games com informações sobre a empresa e um formulário de contato. O site é responsivo e utiliza **Google Fonts** para estilização.
+
+## 📸 Captura de Tela
+
+![Games Shop](./images/imagem_projeto.png)
+
+## 🚀 Tecnologias Utilizadas
+
+O projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML5
+- CSS3
+- Google Fonts (Bungee, Roboto)
+
+## 🎯 Funcionalidades
+
+- 📖 **Seção "Sobre a Loja"**: Informações básicas sobre a empresa.
+- 📩 **Formulário de Contato**: Permite que clientes enviem mensagens.
+- 🔗 **Links para Redes Sociais**: Ícones com links fictícios para Instagram, Facebook e YouTube.
+- 🏠 **Endereço Fictício**: Simulação de um local físico para a loja.
+
+## 📦 Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/ellencigoli/games-shop.git
+   ```
+2. Acesse a pasta do projeto:
+    ```bash
+    cd games-shop
+    ```
+3. Abra o arquivo `index.html` no navegador.
+
+## 📝 Melhorias Futuras
+
+- 🔧 Implementação de um sistema de login para usuários.
+- 🛒 Adição de um carrinho de compras dinâmico.
+- 🔥 Integração com um backend para gerenciar produtos.
+
+## 💡 Contribuição
+
+Fique à vontade para sugerir melhorias ou abrir pull requests! 😊
+
+## 👩‍💻 Desenvolvedor
+
+- [Ellen Cigoli](https://github.com/ellencigoli/)
+
+Caso tenha dúvidas ou sugestões, entre em contato! 💬
 
 ---
 
-### About
+## 📄 Licença
 
-**Games Shop** is a fictional project of an online game store, developed as part of a web development learning exercise. This repository contains the HTML, CSS, and images used to build the site.
-
-### Project Overview
-
-- **Title**: Games Shop - Your gaming store
-- **Language**: HTML, CSS
-- **Technologies Used**: Google Fonts, static images
-- **Responsiveness**: The site is responsive and designed to work on different devices and screen sizes.
-
-### Directory Structure
-
-```
-|- index.html         # Main page of the site
-|- main.css           # CSS file with custom styles
-|- /images            # Directory containing images used on the site
-    |- store.jpg
-    |- nintendo.png
-    |- xbox.png
-    |- playstation.png
-    |- instagram.png
-    |- facebook.png
-    |- youtube.png
-|- /fonts             # Optional directory to store font files (if applicable)
-|- README.md          # Project documentation (you are here!)
-```
-
-### How to Contribute
-
-- Fork this repository
-- Clone the fork to your local environment
-- Make desired changes
-- Send a pull request for review
-
-### How to Run
-
-To view the site locally, simply open the `index.html` file in any modern web browser.
-
-### License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
